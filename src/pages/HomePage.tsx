@@ -84,7 +84,7 @@ export default function HomePage({ setCurrentPage }: HomePageProps) {
                 <div className="absolute inset-0 rounded-2xl bg-gradient-to-br from-cyan-500/30 to-blue-600/20 rotate-3" />
                 <div className="absolute inset-0 rounded-2xl bg-gradient-to-tl from-cyan-400/10 to-transparent -rotate-3" />
                 <img
-                  src="/images/photo_2026-07-10_18-37-36.jpg"
+                  src="/images/photo_2026-07-10_18-37-36%20copy.jpg"
                   alt="Youssef Elsibaey Youssef"
                   className="relative w-full h-full object-cover object-top rounded-2xl shadow-2xl shadow-cyan-500/10 border border-slate-700"
                 />
